@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "connectionTimeout": 30,
+            "database": "WW",
+            "dialect": "MSSQL",
+            "name": "LocalWorkspace",
+            "password": ";;@Hanjolite",
+            "port": 1433,
+            "server": "192.168.1.3",
+            "username": "Kristifor"
+        }
+    ],
+    "git.ignoreLimitWarning": true
+}
